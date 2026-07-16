@@ -10,12 +10,12 @@
 
 ---
 
-- 🏢 I'm currently working as a **NetSuite Technical Lead** with 7+ years in ERP development
+- 🏢 I'm currently working as a **NetSuite Technical Lead** with 8+ years in ERP development
 - 🌱 I'm exploring **Python, AI, and Large Language Models (LLMs)**
 - 🔧 I specialize in **SuiteScript, SuiteQL, SuiteTalk, and business process automation**
 - 💬 Ask me about **NetSuite, ERP integrations, SuiteScript, REST APIs, and workflow automation**
 - 📫 How to reach me: **rajasekaran0803@gmail.com**
-- ⚡ Fun fact: I'm bridging 7+ years of enterprise ERP expertise with modern AI tools
+- ⚡ Fun fact: I'm bridging 8+ years of enterprise ERP expertise with modern AI tools
 
 ---
 
